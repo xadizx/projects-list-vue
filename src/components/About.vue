@@ -7,7 +7,7 @@
         place-items-center
         w-4/5
         mx-auto
-        p-10
+        md:p-10
         my-20
         sm:my-auto
         rounded-xl
@@ -15,10 +15,10 @@
         text-center
       "
     >
-      <h1 class="text-6xl md:text-8xl font-semibold uppercase">
+      <h1 class="text-4xl md:text-8xl font-semibold uppercase">
         Adam Zabraniak
       </h1>
-      <h2 class="text-2xl text-justify">
+      <h2 class="text-2xl md:text-justify">
         Jestem absolwentem technikum informatycznego, a z programowaniem wiążę
         swoją przyszłość zawodową. W wolnych chwilach poszerzam swoją wiedzę
         samodzielnie oraz przez różnego rodzaju poradniki i kursy. Poniżej

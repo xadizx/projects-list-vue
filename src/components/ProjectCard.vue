@@ -59,12 +59,13 @@ hr {
 }
 
 .url {
-  color: #8884ff;
+  color: #1c2826;
   font-weight: bold;
+  text-decoration: underline;
 }
 
 .github {
   font-weight: bold;
-  color: #1c2826;
+  color: #8884ff;
 }
 </style>
